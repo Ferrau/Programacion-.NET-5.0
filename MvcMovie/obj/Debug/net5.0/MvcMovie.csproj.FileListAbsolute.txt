@@ -37,3 +37,5 @@ C:\Users\Ester Ferrau\source\repos\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.p
 C:\Users\Ester Ferrau\source\repos\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.genruntimeconfig.cache
 C:\Users\Ester Ferrau\source\repos\MvcMovie\MvcMovie\obj\Debug\net5.0\ref\MvcMovie.dll
 C:\Users\Ester Ferrau\source\repos\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.CopyComplete
+C:\Users\Ester Ferrau\source\repos\MvcMovie\MvcMovie\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\Users\Ester Ferrau\source\repos\MvcMovie\MvcMovie\obj\Debug\net5.0\Razor\Views\HelloWorld\Welcome.cshtml.g.cs

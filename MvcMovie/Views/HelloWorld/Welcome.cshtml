@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Welcome";
+}
+<h2>Welcome</h2>
+<ul>
+    @for (int i = 0; i < (int)ViewData["NumTimes"]; i++)
+    {
+        <li>@ViewData["Message"]</li>
+    }
+</ul>
+<!--
+    Los datos se toman de la dirección URL y 
+    se pasan al controlador mediante el enlazador de modelos de MVC. 
+
+    El controlador empaqueta los datos en un diccionario ViewData y 
+    pasa ese objeto a la vista. 
+
+    Después, la vista representa los datos como HTML en el explorador.
+
+-->
+
